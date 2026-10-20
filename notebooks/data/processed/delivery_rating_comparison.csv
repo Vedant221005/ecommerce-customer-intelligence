@@ -1,0 +1,7 @@
+delivery_status,review_category,review_count,percentage
+Late,High Rating (4-5),2665,33.88429752066116
+Late,Low Rating (1-2),4160,52.892561983471076
+Late,Neutral Rating (3),1040,13.223140495867769
+On Time / Early,High Rating (4-5),73381,82.32660937464941
+On Time / Early,Low Rating (1-2),8186,9.183925325913792
+On Time / Early,Neutral Rating (3),7567,8.489465299436803
